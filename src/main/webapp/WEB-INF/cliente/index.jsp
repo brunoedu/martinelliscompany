@@ -15,10 +15,10 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<link type="text/css" rel="stylesheet" href="../res/css/materialize.min.css"  media="screen,projection"/>
-<link type="text/css" rel="stylesheet" href="../res/css/style.css"  media="screen,projection"/>
+<link type="text/css" rel="stylesheet" href="../../res/css/materialize.min.css"  media="screen,projection"/>
+<link type="text/css" rel="stylesheet" href="../../res/css/style.css"  media="screen,projection"/>
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script type="text/javascript" src="../res/js/materialize.min.js"></script>
+<script type="text/javascript" src="../../res/js/materialize.min.js"></script>
 <title>Martinelli's Company</title>
 </head>
 <body>
