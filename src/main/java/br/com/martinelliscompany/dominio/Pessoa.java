@@ -1,4 +1,4 @@
-package br.com.pi.dominio;
+package br.com.martinelliscompany.dominio;
 
 import java.util.Date;
 
